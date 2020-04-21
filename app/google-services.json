@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "233768327546",
+    "firebase_url": "https://localutil-e83e2.firebaseio.com",
+    "project_id": "localutil-e83e2",
+    "storage_bucket": "localutil-e83e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233768327546:android:377f53d51f8336d0691ec3",
+        "android_client_info": {
+          "package_name": "com.navalkumar.localutil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233768327546-muqaia4dojabbbe2n4u1g2frs3fcuujm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.navalkumar.localutil",
+            "certificate_hash": "b377b4866c40fd2c2dac328b3cb87d19ada76415"
+          }
+        },
+        {
+          "client_id": "233768327546-c263v39biai708o5jdmaif7ntb43rupc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOZUqn49x8ojzvHOqYp8tTsTvEQ3Igp9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233768327546-c263v39biai708o5jdmaif7ntb43rupc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
